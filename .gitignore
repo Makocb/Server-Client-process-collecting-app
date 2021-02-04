@@ -1,0 +1,6 @@
+/client/*.user
+/client/Debug
+/client/.vs
+/WebServer/.vs
+/WebServer/Debug
+/WebServer/*.user
