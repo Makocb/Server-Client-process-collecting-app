@@ -1,2 +1,4 @@
 # Server-Client-process-collecting-app
-[![Server-Client-process-collecting-app](http://img.youtube.com/vi/<z-i__DIJxmw>/0.jpg)]
+
+## What does it do?
+Client collects processes information and sends them to the server on connection
